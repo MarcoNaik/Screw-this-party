@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: fd7d0926c3a687047823074760c34f41
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: bb0395b1adc3ee84193052d386235e17
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 599dca5e60c38274ea5fae38596c5fcc
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: fe9178073842d4b4d8dbbe9ddecd2a20
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: 9a8f59816105939459f07611d5ad0b6a
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: 83ed03f06a712194fa1925bb2e2a7e15
+  - enabled: 1
+    path: Assets/Levels/Level 7.unity
+    guid: b22dfd329c4ffec4c9d2aa79cff884ef
+  - enabled: 1
+    path: Assets/Levels/Level 8.unity
+    guid: 768fd02bf5cead941a98650b83f85d72
+  - enabled: 1
+    path: Assets/Levels/Level 9.unity
+    guid: ac836a7c0917dd54da33892da475185f
+  - enabled: 1
+    path: Assets/Levels/Level 10.unity
+    guid: 660de457e67e1f849a196168bc0e1038
+  - enabled: 1
+    path: Assets/Levels/Level 11.unity
+    guid: 9ce52afc06e98044193e5ae0d1a8a363
+  - enabled: 1
+    path: Assets/Levels/Level 12.unity
+    guid: 12a953369047c2247a5b66d3d3e8f969
+  - enabled: 1
+    path: Assets/Levels/Level 13.unity
+    guid: 4ee2fc127b935974bb4ef1b2832521ec
+  - enabled: 1
+    path: Assets/Levels/Level 14.unity
+    guid: f65548b36033ab348be9c8799598f9c6
+  - enabled: 1
+    path: Assets/Levels/Level 15.unity
+    guid: b21fae7f8c14c744a861ff3934077df0
+  - enabled: 1
+    path: Assets/Levels/Level 16.unity
+    guid: 939eb7bcfa0fc8f49a64017f452ecae2
+  - enabled: 1
+    path: Assets/Levels/Level 17.unity
+    guid: 6778ef8f79081894a82118f81c1371d3
+  - enabled: 1
+    path: Assets/Levels/Level 18.unity
+    guid: 2ddb9055e6ab3e14bbbe6bdebdc5b1ca
+  - enabled: 1
+    path: Assets/Levels/Level 19.unity
+    guid: 08120d1f581d8a04d9259f5b8ca6bc68
+  m_configObjects: {}
